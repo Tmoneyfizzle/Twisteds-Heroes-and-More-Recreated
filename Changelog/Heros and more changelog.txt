@@ -1,0 +1,57 @@
+Changes:
+
+Average FPS Before: 90-100 
+Average FPS After Mods: 300-400
+
+Min Ram 8GB
+
+Default Settings 
+
+Improved loading times for the overall modpack by 40% 
+
+Improved the FPS by an overall 344.4444%
+
+Improved the compatibility between mods by a TON.
+
+Removed the original Infinity Armour Recipe and Created a Custom one :D
+
+Created a basic Welcome to the mudpack into the questbook!
+
+
+
+Added:
+Farmer's Delight
+Corail Tombstone
+Ad Astra
+Create: Ad Astra Compatibility
+Crash Assistant
+AvaritiaNeo
+ImmediatelyFast
+FerriteCore
+Embeddium 
+ModernFix
+Let Me Despawn
+Starlight (Forge)
+Starlight with Create Fix
+StarlightxAE
+Distraction Free Recipes (EMI / REI / JEI)
+Extended Crafting
+Extended Crafting: Expanded
+KubeJS Create
+Easy CraftTweaker
+CraftTweaker
+AdvancedAE
+ExtendedAE
+Applied Flux
+Polymorphic Energistics
+FTB XMod Compat
+FTB Ultimine (Forge)
+FTB Chunks (NeoForge)
+
+
+Removed
+Supplementaries
+Apothic Supplementaries - Enchanting
+Corpse
+Create: Dexter (Incompatible / Causing crashes)
+Just Enough Advancements (JEA) (Causing crashes)
