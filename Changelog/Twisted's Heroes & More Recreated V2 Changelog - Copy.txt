@@ -1,0 +1,40 @@
+Changelog:
+
+
+
+Fixed some glitches to do with mod incompatibility
+
+Figured out a round about Copper dupe and fixed that as well
+
+
+
+Added:
+
+8 Custom recipes for:
+
+Infinity armour
+
+Sword of the Cosmos
+
+Creative Motor
+
+The Everlasting Guilty Pool
+
+Tome Of Knowledge
+
+NOTE: The recipes are are subject to additions and or changes so pls keep that in mind when you update the modpack!
+
+
+
+Added a Create Questline 
+
+Finished the welcome questline
+
+Questlines in Progress:
+
+Applied Energistics 2
+
+Apotheosis
+
+
+

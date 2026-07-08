@@ -1,0 +1,59 @@
+Changelog:
+
+
+
+Increased the difficulty of the infinity Generator recipe for the item, and removed the original recipe of the item.
+
+Updated the infinity Sword Crafting (Sword of the Cosmos) To make it harder then it already was.
+
+Removed the Infinity Gauntlet Cast from the Village Weaponsmith chest lootable
+
+Added custom recipe and removed old recipe for Gold plate
+
+Added custom recipe and removed old recipe for steel block 
+
+Added custom recipe for Ferro-Titanium-Gold Alloy Ingot
+
+FINALLY ADDED CUSTOM RECIPE FOR THE INFINITY GAUNLET CAST!
+
+
+
+Questbook:
+
+
+
+Added loot Rewards for Applied Energistics 2
+
+Fixed the Loot Tables for Create to be more Correct for the modpacks gameplay.
+
+Completed the Apotheosis Questline.
+
+Completed the Apothic Spawner Questline 
+
+Completed the Baubley Heart Canisters Questline
+
+Completed BASELINE Mekanism questline (This is still subject to change over time)
+
+Immersive Engineering questline started (This is still subject to change over time)
+
+
+
+
+
+
+Added:
+
+
+
+Baubley Heart Canisters
+
+LootJS: KubeJS Addon
+
+Botanic Additions
+
+MythicBotany
+
+Removed:
+
+N/A
+

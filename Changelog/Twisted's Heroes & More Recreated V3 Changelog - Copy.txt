@@ -1,0 +1,62 @@
+Changelog:
+
+
+
+
+
+Removed my last patch for Mekanism and Ad Astra compatibility mod problems with tags. This was very inaccurate due to the fact overall changes after every restart. 
+
+
+
+
+
+Added Ad Astra: Giselle Addon to fix this problem, with other changes and additions to recipes in Ad Astra as well! 
+
+
+
+
+
+Added the AE2 TEXTURE BACKPORT Resourcepack for Applied Energetics to fit the modern Area of Modding. (NOTE: You can disable this without problems if it does not fit your style.)
+
+
+
+
+
+Added custom Recipe for the Infinity Generator. Made the recipe harder to craft.
+
+
+
+
+
+Added custom Recipe for the Infinity Chest. Made the recipe harder to craft.
+
+
+
+
+
+Questbook:
+
+Finished the Applied Energistics Questline
+
+Started Work on the Apotheosis Questline
+
+
+
+Added:
+
+
+
+Ad Astra: Giselle Addon
+FTB Filter System
+MEGA Cells
+
+
+
+
+Removed:
+
+
+
+Just Enough Professions (JEP) (Crashed After Forge Updates)
+Just Enough Painting Previews (JEPP) (Crashed After Forge Updates)
+Easy CraftTweaker

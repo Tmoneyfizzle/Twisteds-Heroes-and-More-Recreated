@@ -1,0 +1,59 @@
+Changelog:
+
+
+
+Changed recipe for Vibranium to make the recipe a little more tougher to make.
+
+
+Made a custom recipe for "blazing_blood" from Tinker Construct and removed the old recipe as well.
+
+
+removed the old recipe for the "Prototype Omnitrix" and made a custom recipe for it.
+
+
+Added a new custom recipe for the the AE2 Creative Cell.
+
+removed the old recipe of the watch of flowing time and created a new one.
+
+Removed ALL EMC values of the singularities of Avaritia and the EMC value of the watch of flowing time as well.
+
+Removed MOST recipes with EMC value in the Avaritia Mod.
+
+Created EMC Value for Fiery Ingot.
+
+
+
+Questbook:
+
+
+
+Completed a Immersive Engineering Questline.
+
+Created a Farmer's Delight Questline.
+
+Created a Extended Crafting Questline.
+
+Removed the broken textures in the Create Mod Questline. (These originally were used for Coins from Create: Numismatics.)
+
+Fixed the unconnected questline in the Create mod questline.
+
+Added the Sophisticated Backpacks Questline.
+
+
+
+
+Added:
+
+
+
+Tinkers Construct
+CreateTweaker
+KubeJS ProjectE Fork
+
+
+
+
+Removed:
+
+
+
