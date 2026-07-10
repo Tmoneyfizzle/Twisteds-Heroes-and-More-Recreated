@@ -1,0 +1,88 @@
+Changelog:
+
+Removed crafting Enchanted Golden Apples using Gold Blocks and an apple. 
+
+Created Recipe for Palladium Redstone Flux Crystal Using Create.
+
+Created New Recipe for Compound V1 Vial
+
+Created Custom Recipe for Compound V1 Vial (Complete)
+
+Created Custom Recipe for Extra Curio Slot Item
+
+Created Custom Recipe for Creative Mekanism Bin
+
+Created Custom Recipe for Compound V Vial Odessa
+
+Updated the recipes for the infinity armor. 
+
+Created new recipe for Kratosaxe.
+
+
+New Questbook:
+
+Create: Connected
+Create: Crafts and Additions
+Create: Central Kitchen
+Create: Enchantment Industries
+Create: Interiors
+Create: Hypertubes
+
+
+
+Updated Mods: 
+
+Updated JEI to a later version.
+Updated Sophisticated core to a later version.
+Updated Sophisticated Backpacks to a later version.
+Updated AdvancedAE to a later version.
+Updated Chat Heads to a later version.
+Updated Artificats to a later version.
+Updated Nature's Compass to a later version.
+Updated Farmer's Delight to a later version.
+Updated ExtendedAE to a later version.
+Updated Explorer's Compass to a later version.
+Updated Palladium 🐿️ to a later version.
+
+
+
+
+Added:
+
+GregTech CEu Modern
+God Of War The Leviathan Axe
+Invincible Incorporated
+Aquaculture 2
+Aquaculture Delight (A Farmer's Delight Add-on)
+More Curios Slots
+Eli's Compound V
+OpenBlocks Elevator
+Create: Aquatic Ambitions
+Create: Central Kitchen
+Create: Connected
+Create: Diesel Generators
+Create: Escalated
+Create: Interiors
+Create: Trading Floor
+Comforts
+Simple Voice Chat 
+Sound Physics Remastered 
+No Chat Reports
+Trash Slot
+Chipped
+Sophisticated Storage
+Deeper and Darker
+Relics
+Industrial Foregoing
+Thermal Foundation
+Satsu Iron man addon (Palladium)
+Satsu's Iron Man - DS Expansion
+Heroes Reborn
+
+
+
+Removed:
+
+
+
+
